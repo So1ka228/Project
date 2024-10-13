@@ -3,7 +3,7 @@
 
 
 * {
-	font-family: 'MuseoModerno', sans-serif;
+	font-family: 'Museo Sans Cyrl', sans-serif;
 }
 
 .container {
@@ -12,4 +12,6 @@
 }
 
 @import "promo";
-@import "header"
+@import "header";
+@import "buttons";
+@import "advantages";
